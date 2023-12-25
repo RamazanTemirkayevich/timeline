@@ -72,6 +72,7 @@
     "lodash": "^4.17.11"
   },
   "dependencies": {
+    "slick-carousel": "^1.8.1",
     "swiper": "^8.4.5"
   }
 }
